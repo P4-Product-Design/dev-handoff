@@ -1,0 +1,20 @@
+{
+  "name": "dev-handoff",
+  "description": "P4 Product Design's marketplace for the dev-handoff plugin.",
+  "owner": {
+    "name": "P4 Product Design"
+  },
+  "plugins": [
+    {
+      "name": "dev-handoff",
+      "description": "Generates a complete dev handoff spec from a Figma design — Requirements and Dev Spec Handoff frames plus native Dev Mode breakpoint annotations, ready for engineers to build from.",
+      "source": ".",
+      "version": "0.1.0",
+      "author": {
+        "name": "P4 Product Design"
+      },
+      "category": "development",
+      "keywords": ["figma", "dev-handoff", "annotations", "design-to-dev", "spec", "requirements"]
+    }
+  ]
+}
